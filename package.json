@@ -1,0 +1,17 @@
+{
+  "name": "util-fabric",
+  "version": "1.0.0",
+  "description": "it's a a canvas drawing plugin based on fabric.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "slmyer",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promisify": "^6.1.1",
+    "fabric": "^4.3.0",
+    "zlib": "^1.0.5"
+  }
+}
